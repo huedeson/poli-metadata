@@ -1,0 +1,9 @@
+{
+  "name": "Polilaminina",
+  "symbol": "POLI",
+  "description": "Cryptographic asset supporting research initiatives related to polylaminin and regenerative biology. Inspired by Brazilian biologist Tatiana Sampaio.",
+  "image": "https://raw.githubusercontent.com/huedeson/poli-metadata/main/logo.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Scientific Support Token" }
+  ]
+}
